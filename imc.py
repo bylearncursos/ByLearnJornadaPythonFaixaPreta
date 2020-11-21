@@ -1,6 +1,7 @@
 # IMC => PESO (KG) / ALTURA (M)²
 
 def numero_quadrado(numero):
+  # Também podemos usar numero ** 2
   quadrado = numero * numero 
   return quadrado 
 
